@@ -1,7 +1,11 @@
 
 <h1 align="center"> To Do List </h1>
 
-A handy webapp to manage your tasks. Each user sees only their own tasks.
+Very popular type of project, in my example based on libraries django.contrib.auth.views (as_view)
+Fullstack web app. Main goal of this app was to create list of task to do. Whole app is working on user authorization mode. Only owner of the task’s can see thier own posts.
+
+
+I created this app because i found it useful
 
 App: https://list-todo.up.railway.app
 
